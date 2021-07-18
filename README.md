@@ -2,4 +2,4 @@ My name is Tom or Tomshi, I'm a [twitch.tv Partner](https://www.twitch.tv/tomshi
 
 Coding isn't really my thing for the most part, I only really have rudimentary understanding of a few languages (mainly ahk)
 
-I am mainly using github to keep track of my scripts in [tomshiii/ahk](https://github.com/Tomshiii/ahk) and a few assets used for videos in [Icons](https://github.com/Tomshiii/Icons)
+I am mainly using github to keep track of my scripts in [tomshiii/ahk](https://github.com/Tomshiii/ahk) and a few assets used for videos in [Tomshiii/Icons](https://github.com/Tomshiii/Icons)
